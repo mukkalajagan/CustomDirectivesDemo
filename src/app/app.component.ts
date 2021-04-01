@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'CustomDirectivesDemo';
+  title = 'Custom Directives in Angular';
 }
